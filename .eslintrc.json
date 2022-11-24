@@ -4,6 +4,9 @@
     "project": "./tsconfig.json"
   },
   "rules": {
-    "space-before-blocks": "off"
+    "space-before-blocks": "off",
+    "@typescript-eslint/consistent-type-definitions": "off",
+    "@typescript-eslint/space-before-function-paren": "off",
+    "@typescript-eslint/no-namespace": "off"
   }
 }
